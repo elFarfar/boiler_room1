@@ -1,0 +1,18 @@
+{
+  "name": "boiler_room1",
+  "version": "1.0.0",
+  "description": "2025-08-25 Ahmad Ardal Deferred Deep Linking Solution **Problemet**",
+  "main": "express.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
